@@ -2,8 +2,8 @@
 
 **Universidad de Oriente**  
 **Docente:** MDU. Josue Montoya  
-**Estudiante:** [Tu Nombre]  
-**Carnet:** [Tu Carnet]  
+**Estudiante:** U20220105 
+**Carnet:** U20220105
 **Fecha:** Marzo 2026
 
 ---
