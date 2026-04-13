@@ -2,9 +2,8 @@
 
 **Universidad de Oriente**  
 **Docente:** MDU. Josue Montoya  
-**Estudiante:** U20220105 
+**Estudiante:** U20220105
 **Carnet:** U20220105
-
 **Fecha:** Marzo 2026
 
 ---
